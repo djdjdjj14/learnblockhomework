@@ -1,0 +1,6 @@
+[
+  "constructor(address)",
+  "function deposit(address,uint256)",
+  "function deposited(address) view returns (uint256)",
+  "function token() view returns (address)"
+]
